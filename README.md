@@ -7,4 +7,4 @@ Change your test key or live key inside woocommerce > settings > payment > payd 
 
 NOTE: Donot forget to import the sql file into your Database
 
-#If any issues please let me know in comments 
+#If any issues , please help me correct it
