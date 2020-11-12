@@ -33,7 +33,7 @@ function payd_add_content_thankyou($order_id) {
 
         $curl = curl_init();
 
-        $secret = '$2y$10$MrT.xmGPQED0LG5Op6DvU.ZlvIOhPQoeVBal8TXuk66VIob9yiide';
+        $secret = 'your secret key';
 
         curl_setopt_array($curl, array(
         CURLOPT_URL => "https://www.payd.ae/pg/public/api/paymentdetails/$referenceid/$mode",
